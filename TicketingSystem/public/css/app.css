@@ -1,0 +1,19 @@
+#table-wrapper {
+    margin: 0;
+    position: relative;
+    width: 100%;
+    background-color: aliceblue;
+}
+#table-scroll {
+    height: 17vh;
+    overflow: auto;
+    margin-top: 20px;
+}
+#table-wrapper table {
+    width: 100%;
+}
+
+#route {
+    width: 100vh;
+}
+

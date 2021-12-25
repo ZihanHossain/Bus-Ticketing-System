@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(215, 218, 219);
+}
+.cont {
+    /* display: inline-flex; */
+    flex-wrap: wrap;
+    gap: 12px;
+}
+.col {
+    background-color: white;
+    border-radius: 15px;
+    overflow: hidden;
+    margin: 5px;
+}
+#table-wrapper {
+    margin: 0;
+    position: relative;
+    width: 100%;
+    background-color: aliceblue;
+    overflow: hidden;
+}
+#table-scroll {
+    height: 17vh;
+    overflow: auto;
+    margin-top: 20px;
+}
+#table-wrapper table {
+    width: 100%;
+}
+
+#route {
+    width: 100vh;
+}

@@ -1,0 +1,13 @@
+.table-wrapper {
+    width: 100%;
+    margin-top: 2%;
+}
+span {
+    padding: 10px !important;
+}
+table td {
+    color: rgb(131, 21, 233);
+    background-color: rgb(156, 218, 194);
+    font-size: large;
+    font-weight: bold;
+}
